@@ -1,0 +1,2 @@
+Enter a Number : Factorial of8is
+40320
